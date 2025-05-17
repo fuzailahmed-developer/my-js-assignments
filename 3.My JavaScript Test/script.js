@@ -49,6 +49,11 @@ switch (divisibleNumCheck % 3) {
         console.log("Number is not divisible by 3");
         break;
 }
+//! Program - 6 Write a program that takes a character(number or string) in a
+//! variable & checks whether the given input is a number,
+//! uppercase letter or lower case letter. (Hint: ASCII codes:-
+//! A=65, Z=90, a=97, z=122)
+// not solved 
 
 //! Program - 7 Program  Write a program to create a calculator for +, -, *, /, % using
 //! switch case statements. (number1, number2 and operator will
